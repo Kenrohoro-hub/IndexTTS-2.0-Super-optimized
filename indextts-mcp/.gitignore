@@ -1,0 +1,7 @@
+.venv/
+.state/
+__pycache__/
+.pytest_cache/
+backups/
+client-config.json
+tests/.tmp/
